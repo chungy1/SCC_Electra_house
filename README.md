@@ -6,3 +6,4 @@
   - The terminal should output the `localhost` term.
 - In VSCode, right click `index.html` and click "Open in Default Browser".
 # SCC_Electra_house
+# SCC_Electra_house
